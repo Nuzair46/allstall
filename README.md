@@ -12,7 +12,7 @@ clone the repo to your system.
 git clone https://github.com/nuzerrednek/allstall.git
 cd allstall
 chmod +x install.sh
-sudo ./install.sh
+sudo ./install.sh 
 
 run typing 'allstall' on terminal.
 
