@@ -33,4 +33,10 @@ allstar -p repo-package
 
 you can even use multiple packages and also different packages on the same command.  
 
+Author  
+------  
+@rednek46 - Nuzaair Rasheed  
+contact me if you wan to help.  
+nuzer@gmail.com  
+twitter: @its_nzr  
 
