@@ -9,7 +9,7 @@ Upcoming wget and program executer. And support for other distros.
 Installation
 ------------
 clone the repo to your system.  
-git clone https://github.com/nuzerrednek/allstall.git  
+git clone https://github.com/rednek46/allstall.git  
 cd allstall  
 chmod +x install.sh  
 sudo ./install.sh   
@@ -23,7 +23,7 @@ usage
 allstar sample.deb    
   
 .git    
-allstar https://github.com/nuzerrednek/sample.git  
+allstar https://github.com/rednek46/sample.git  
   
 .tar.gz  
 allstar sample.tar.gz  
