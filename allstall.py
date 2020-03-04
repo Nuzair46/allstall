@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-###### Auther: @nuzerrednek ######
+###### Auther: @rednek46 ######
 import os,sys,subprocess,re
 
 def debpack(pack):													# for .deb packages
