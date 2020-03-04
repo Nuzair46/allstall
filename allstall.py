@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ###### Auther: @rednek46 ######
-import os,sys,subprocess,re
+import os,sys,re
 
 def debpack(pack):													# for .deb packages
 	print ("\nExecuting command : apt install ./%s" % (pack))
@@ -30,7 +30,7 @@ def tarball(pack):
 	loc = input("Enter directory to extract to: ")
 	makeDir = "sudo mkdir -p %s >/dev/null 2>&1" % (loc)
 	os.system(makeDir)
-	print ("\nExtracting..."
+	print ("\nExtracting...")
 	if loc == '':
 		extract = "sudo tar -xvf %s" % (pack)
 	else :	
