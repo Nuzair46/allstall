@@ -20,16 +20,16 @@ usage
 ----- 
   
 .deb  <br/>
-allstar sample.deb    
+allstall sample.deb    
   
 .git    
-allstar https://github.com/rednek46/sample.git  
+allstall https://github.com/rednek46/sample.git  
   
 .tar.gz  
-allstar sample.tar.gz  
+allstall sample.tar.gz  
   
 official repo packs  
-allstar -p repo-package  
+allstall -p repo-package  
 
 you can even use multiple packages and also different packages on the same command.  
 
