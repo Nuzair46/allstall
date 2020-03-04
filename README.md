@@ -35,8 +35,7 @@ you can even use multiple packages and also different packages on the same comma
 
 Author  
 ------  
-@rednek46 - Nuzaair Rasheed  
-contact me if you wan to help.  
+@rednek46 - Nuzair Rasheed    
 nuzer@gmail.com  
 twitter: @its_nzr  
 
